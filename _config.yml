@@ -21,7 +21,7 @@ description: Security Enthusiast
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
   - name: Blog
-    url: /blog
+    url: /blog.html
   - name: Home
     url: https://devanshdubey.com
   - name: About
