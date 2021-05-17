@@ -1,1 +1,1 @@
-Blog powered by [Kiko Now](https://github.com/aweekj/kiko-now)
+Blog powered by [Dev on Security](https://github.com/devanshdubey)
