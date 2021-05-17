@@ -8,9 +8,9 @@ Whoami
 
 ### Contact me
 
-* [jmabhishek4@gmail.com](mailto:devansh.blogs@gmail.com)
-#* [Portfolio](https://www.hawkspawn.com)
-#* [LinkedIn]()
+* [devansh.blogs@gmail.com](mailto:devansh.blogs@gmail.com)
+* [Portfolio](https://devanshdubey.com)
+* [LinkedIn](https://www.linkedin.com/in/devansh-dubey-18abaa153/)
 * [Twitter](https://twitter.com/devanshdubey97)
 * [GitHub](https://github.com/devanshdubey) 
 
