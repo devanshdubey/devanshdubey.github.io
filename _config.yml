@@ -23,7 +23,7 @@ navigation:
   - name: Blog
     url: /blog
   - name: Home
-    url: https://devanshdubey.com
+    url: /home
   - name: About
     url: /about
   - name: Archive
